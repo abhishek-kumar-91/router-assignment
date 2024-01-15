@@ -13,9 +13,7 @@ function Footer() {
     <ul className='flex flex-col gap-4 text-md font-md text-gray-500'>
                     <li className='font-bold'> Pages </li>
                     <li className='hover:text-orange-500 cursor-pointer'><Link to="/">Home</Link></li>
-                    <li className='hover:text-orange-500 cursor-pointer'><Link to="/about">About</Link></li>
-                    <li className='hover:text-orange-500 cursor-pointer'><Link to="/contact-us">Contact Us</Link></li>
-                    <li className='hover:text-orange-500 cursor-pointer'><Link to="/github">Github</Link></li>
+
                 </ul>
     <div>
     <ul className='flex flex-col gap-4 text-md font-md text-gray-500'>
